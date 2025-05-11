@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 
 @RestController
-
 public class AuthController {
 
     private final AuthService authService;
